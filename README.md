@@ -2,6 +2,7 @@
 shows the number of people in CAFE in real time
 
 We use arduino D1 R1 board that the ESP8266 (wifi module) mounted to make connection between arduino and the server. So we also use PHP.
+(ACTUALLY we recommend the D1 R1 board than the only ESP8266 module because of its instability..)
 
 arduion.ino is the file that we use in arduino. It sends the sensor's data by GET response.
 
