@@ -2,7 +2,7 @@
 Sitting cafe('앉는 카페') shows the number of people in CAFE in real time. 
 
 I use arduino D1 R1 board that the ESP8266 (wifi module) mounted in it to make connection between arduino and the server by PHP.
-(and ACTUALLY I recommend the D1 R1 board who use http requests using WIFI than only using ESP8266 module because of its instability..)
+(and ACTUALLY I recommend the D1 R1 board who use http requests by WIFI than only using ESP8266 module because of its instability..)
 
 1. arduion.ino is the file that we use in arduino. It sends the sensor's data by GET response.
 
