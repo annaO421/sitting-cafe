@@ -13,3 +13,4 @@ When you put the keyword in the search box, then the sch.php shows up. This file
 
 4. android.php is the file that connects the application and the sql. It is almost same with the sch.php but I encoded to JSON because PHP does not allowed to use in android studio. 
 
+![default](https://user-images.githubusercontent.com/43226886/45803331-517d2c00-bcf4-11e8-9c12-c896c08f3c68.PNG)
