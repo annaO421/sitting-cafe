@@ -10,3 +10,6 @@ We use arduino D1 R1 board that the ESP8266 (wifi module) mounted to make connec
 When you put the keyword in the search box, then the sch.php shows. This file shows the data searched by keyword in previous page. 
 
 3. sch.php shows the result of what you searched. I use subqueries to select distinct values of the each university in this file.
+
+4. android.php is the file that connects the application and the sql. It is almost same with the sch.php but I encoded to JSON because PHP does not allowed to use in android studio. 
+
